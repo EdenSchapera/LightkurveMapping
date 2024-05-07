@@ -1,0 +1,6 @@
+Each object in the KMZ file corresponds to a target analyzed in Schapera et. al. 2024. The full article text can be found at https://etd.library.emory.edu/concern/etds/n870zs34b?locale=en
+
+Each object was plotted onto Google Earth Pro. In order to visualize these objects, import the KMZ file into Google Earth Pro's sky mapping tool. SDSS data was used to visually verify the position of each star. 
+A summary of each object's coordinates, classification, and other important features can be found in Table 3 of the article.
+
+A full description of the pipeline used to generate this data can be found in Chapter 2 of the article. The pipeline code can be downloaded from https://github.com/EdenSchapera/RRcLightkurvePipeline.
